@@ -1,2 +1,2 @@
 # hello-world
-Just testing git-hub 
+i deleted something and this is my 3rd commit  
